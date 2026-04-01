@@ -82,4 +82,4 @@
 
 ---
 
-<sub>Built with ❤️ and pixel art · Inspired by <a href="https://github.com/Saviru/change-the-cat">change-the-cat</a> by @Saviru</sub>
+<sub>Built with pixel art and ❤️  by me :) .  
