@@ -1,0 +1,83 @@
+{
+  "pets": [
+    {
+      "id": "pet_1775028460250",
+      "type": "cat",
+      "emoji": "🐱",
+      "name": "Quirky Pudding",
+      "personality": "befriends all other pets 🤝",
+      "adopted_by": "user7",
+      "issue_number": "7",
+      "timestamp": "2026-04-01T07:27:40.250Z",
+      "svg": "images/pet_1775028460250.svg"
+    },
+    {
+      "id": "pet_1775028460166",
+      "type": "dragon",
+      "emoji": "🐲",
+      "name": "Gentle Pretzel",
+      "personality": "loves midnight zoomies 🌙",
+      "adopted_by": "user6",
+      "issue_number": "6",
+      "timestamp": "2026-04-01T07:27:40.166Z",
+      "svg": "images/pet_1775028460166.svg"
+    },
+    {
+      "id": "pet_1775028460081",
+      "type": "axolotl",
+      "emoji": "🦎",
+      "name": "Grumpy Biscuit",
+      "personality": "hoards shiny objects ✨",
+      "adopted_by": "user5",
+      "issue_number": "5",
+      "timestamp": "2026-04-01T07:27:40.081Z",
+      "svg": "images/pet_1775028460081.svg"
+    },
+    {
+      "id": "pet_1775028459994",
+      "type": "dragon",
+      "emoji": "🐲",
+      "name": "Brave Cobalt",
+      "personality": "professional window watcher 🪟",
+      "adopted_by": "user4",
+      "issue_number": "4",
+      "timestamp": "2026-04-01T07:27:39.994Z",
+      "svg": "images/pet_1775028459994.svg"
+    },
+    {
+      "id": "pet_1775028459906",
+      "type": "axolotl",
+      "emoji": "🦎",
+      "name": "Fluffy Pumpkin",
+      "personality": "scared of its own shadow 😱",
+      "adopted_by": "user3",
+      "issue_number": "3",
+      "timestamp": "2026-04-01T07:27:39.906Z",
+      "svg": "images/pet_1775028459906.svg"
+    },
+    {
+      "id": "pet_1775028459846",
+      "type": "hamster",
+      "emoji": "🐹",
+      "name": "Mellow Churro",
+      "personality": "very dramatic about everything 🎭",
+      "adopted_by": "user2",
+      "issue_number": "2",
+      "timestamp": "2026-04-01T07:27:39.846Z",
+      "svg": "images/pet_1775028459846.svg"
+    },
+    {
+      "id": "pet_1775028455765",
+      "type": "dog",
+      "emoji": "🐶",
+      "name": "Cheerful Waffles",
+      "personality": "collects friendship bracelets 📿",
+      "adopted_by": "amankumarsingh23",
+      "issue_number": "1",
+      "timestamp": "2026-04-01T07:27:35.765Z",
+      "svg": "images/pet_1775028455765.svg"
+    }
+  ],
+  "total_adoptions": 7,
+  "last_adoption": "2026-04-01T07:27:40.250Z"
+}

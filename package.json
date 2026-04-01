@@ -1,0 +1,13 @@
+{
+  "name": "adopt-a-pet",
+  "version": "1.0.0",
+  "description": "A GitHub repo where anyone can adopt a pixel-art pet by opening an issue",
+  "main": "adopt.js",
+  "scripts": {
+    "adopt": "node adopt.js",
+    "readme": "node generate-readme.js",
+    "test": "node test.js"
+  },
+  "keywords": ["github", "pixel-art", "pets", "community", "readme"],
+  "license": "MIT"
+}

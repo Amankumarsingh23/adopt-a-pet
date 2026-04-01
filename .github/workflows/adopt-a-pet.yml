@@ -1,0 +1,62 @@
+name: 🐾 Adopt a Pet
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  adopt:
+    # Only run if issue title is exactly "Adopt!"
+    if: github.event.issue.title == 'Adopt!'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Run adoption script
+        env:
+          ADOPTER_USERNAME: ${{ github.event.issue.user.login }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: node adopt.js
+
+      - name: Generate updated README
+        run: node generate-readme.js
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add pets.json README.md images/
+          git commit -m "🐾 New pet adopted by @${{ github.event.issue.user.login }} (Issue #${{ github.event.issue.number }})"
+          git push
+
+      - name: React to issue with celebration
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          body: |
+            ## 🎉 Adoption Successful!
+
+            Your new pet has been added to the shelter! Head over to the [README](../../blob/main/README.md) to meet them! 🐾
+
+            > *(It may take a few seconds to update — try refreshing!)*
+
+            ---
+            <sub>Thanks for adopting! Every pet deserves a home 💖</sub>
+
+      - name: Close the issue
+        uses: peter-evans/close-issue@v3
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          comment: |
+            Closing this issue automatically — your pet is safe and happy in the shelter! 🏡
