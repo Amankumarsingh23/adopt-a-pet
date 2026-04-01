@@ -130,9 +130,10 @@ ${recentSection}
 
 ## 🐾 How to Adopt
 
-1. **[Open a new Issue](../../issues/new)**
-2. Set the title to exactly: \`Adopt!\`
-3. Submit it — the GitHub Action will automatically:
+[![Adopt a Pet!](https://img.shields.io/badge/Adopt%20a%20Pet!-Click%20Here-2ea44f?style=for-the-badge&logo=github)](https://github.com/Amankumarsingh23/adopt-a-pet/issues/new?title=Adopt!&body=%E2%9C%A8%20I%20want%20to%20adopt%20a%20pet!%0A%0AClick%20Submit%20new%20issue%20below%20to%20give%20a%20pixel-art%20friend%20a%20forever%20home!)
+
+1. **Click the button above** (or open an issue with the title \`Adopt!\`)
+2. Submit the issue — the GitHub Action will automatically:
    - Generate a random pixel-art pet 🎲
    - Give it a unique name and personality
    - Add it to the shelter with your username
@@ -166,7 +167,7 @@ ${recentSection}
 
 ---
 
-<sub>Built with ❤️ and pixel art · Inspired by <a href="https://github.com/Saviru/change-the-cat">change-the-cat</a> by @Saviru</sub>
+<sub>Built with ❤️ and pixel art</sub>
 `;
 
   fs.writeFileSync(README_FILE, readme);
