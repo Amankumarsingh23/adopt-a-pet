@@ -1,6 +1,17 @@
 {
   "pets": [
     {
+      "id": "pet_1775034319243",
+      "type": "hamster",
+      "emoji": "🐹",
+      "name": "Grumpy Mochi",
+      "personality": "loves midnight zoomies 🌙",
+      "adopted_by": "Amankumarsingh23",
+      "issue_number": "4",
+      "timestamp": "2026-04-01T09:05:19.243Z",
+      "svg": "images/pet_1775034319243.svg"
+    },
+    {
       "id": "pet_1775030199558",
       "type": "dog",
       "emoji": "🐶",
@@ -111,6 +122,6 @@
       "svg": "images/pet_1775028455765.svg"
     }
   ],
-  "total_adoptions": 10,
-  "last_adoption": "2026-04-01T07:56:39.558Z"
+  "total_adoptions": 11,
+  "last_adoption": "2026-04-01T09:05:19.243Z"
 }
