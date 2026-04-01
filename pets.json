@@ -1,6 +1,17 @@
 {
   "pets": [
     {
+      "id": "pet_1775029411684",
+      "type": "penguin",
+      "emoji": "🐧",
+      "name": "Lively Waffles",
+      "personality": "only eats gourmet food 🍽️",
+      "adopted_by": "Amankumarsingh23",
+      "issue_number": "1",
+      "timestamp": "2026-04-01T07:43:31.684Z",
+      "svg": "images/pet_1775029411684.svg"
+    },
+    {
       "id": "pet_1775028460250",
       "type": "cat",
       "emoji": "🐱",
@@ -78,6 +89,6 @@
       "svg": "images/pet_1775028455765.svg"
     }
   ],
-  "total_adoptions": 7,
-  "last_adoption": "2026-04-01T07:27:40.250Z"
+  "total_adoptions": 8,
+  "last_adoption": "2026-04-01T07:43:31.684Z"
 }
