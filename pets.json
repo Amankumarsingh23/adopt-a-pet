@@ -1,6 +1,17 @@
 {
   "pets": [
     {
+      "id": "pet_1775030199558",
+      "type": "dog",
+      "emoji": "🐶",
+      "name": "Sleepy Churro",
+      "personality": "hoards shiny objects ✨",
+      "adopted_by": "Amankumarsingh23",
+      "issue_number": "3",
+      "timestamp": "2026-04-01T07:56:39.558Z",
+      "svg": "images/pet_1775030199558.svg"
+    },
+    {
       "id": "pet_1775030124174",
       "type": "frog",
       "emoji": "🐸",
@@ -100,6 +111,6 @@
       "svg": "images/pet_1775028455765.svg"
     }
   ],
-  "total_adoptions": 9,
-  "last_adoption": "2026-04-01T07:55:24.174Z"
+  "total_adoptions": 10,
+  "last_adoption": "2026-04-01T07:56:39.558Z"
 }
