@@ -1,6 +1,17 @@
 {
   "pets": [
     {
+      "id": "pet_1775122126472",
+      "type": "axolotl",
+      "emoji": "🦎",
+      "name": "Gentle Biscuit",
+      "personality": "befriends all other pets 🤝",
+      "adopted_by": "Amankumarsingh23",
+      "issue_number": "5",
+      "timestamp": "2026-04-02T09:28:46.472Z",
+      "svg": "images/pet_1775122126472.svg"
+    },
+    {
       "id": "pet_1775034319243",
       "type": "hamster",
       "emoji": "🐹",
@@ -122,6 +133,6 @@
       "svg": "images/pet_1775028455765.svg"
     }
   ],
-  "total_adoptions": 11,
-  "last_adoption": "2026-04-01T09:05:19.243Z"
+  "total_adoptions": 12,
+  "last_adoption": "2026-04-02T09:28:46.472Z"
 }
