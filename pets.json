@@ -1,6 +1,17 @@
 {
   "pets": [
     {
+      "id": "pet_1776271417378",
+      "type": "cat",
+      "emoji": "🐱",
+      "name": "Brave Cheddar",
+      "personality": "collects friendship bracelets 📿",
+      "adopted_by": "harryson9935",
+      "issue_number": "8",
+      "timestamp": "2026-04-15T16:43:37.378Z",
+      "svg": "images/pet_1776271417378.svg"
+    },
+    {
       "id": "pet_1776236764843",
       "type": "frog",
       "emoji": "🐸",
@@ -155,6 +166,6 @@
       "svg": "images/pet_1775028455765.svg"
     }
   ],
-  "total_adoptions": 14,
-  "last_adoption": "2026-04-15T07:06:04.843Z"
+  "total_adoptions": 15,
+  "last_adoption": "2026-04-15T16:43:37.378Z"
 }
