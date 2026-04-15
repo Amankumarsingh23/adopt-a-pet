@@ -1,6 +1,17 @@
 {
   "pets": [
     {
+      "id": "pet_1776236764843",
+      "type": "frog",
+      "emoji": "🐸",
+      "name": "Cozy Pretzel",
+      "personality": "secretly runs a podcast 🎙️",
+      "adopted_by": "Amankumarsingh23",
+      "issue_number": "7",
+      "timestamp": "2026-04-15T07:06:04.843Z",
+      "svg": "images/pet_1776236764843.svg"
+    },
+    {
       "id": "pet_1775500856465",
       "type": "bunny",
       "emoji": "🐰",
@@ -144,6 +155,6 @@
       "svg": "images/pet_1775028455765.svg"
     }
   ],
-  "total_adoptions": 13,
-  "last_adoption": "2026-04-06T18:40:56.465Z"
+  "total_adoptions": 14,
+  "last_adoption": "2026-04-15T07:06:04.843Z"
 }
