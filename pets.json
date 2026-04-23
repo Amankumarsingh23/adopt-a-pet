@@ -1,6 +1,17 @@
 {
   "pets": [
     {
+      "id": "pet_1776963768252",
+      "type": "dragon",
+      "emoji": "🐲",
+      "name": "Lively Whiskers",
+      "personality": "hoards shiny objects ✨",
+      "adopted_by": "Amankumarsingh23",
+      "issue_number": "9",
+      "timestamp": "2026-04-23T17:02:48.252Z",
+      "svg": "images/pet_1776963768252.svg"
+    },
+    {
       "id": "pet_1776271417378",
       "type": "cat",
       "emoji": "🐱",
@@ -166,6 +177,6 @@
       "svg": "images/pet_1775028455765.svg"
     }
   ],
-  "total_adoptions": 15,
-  "last_adoption": "2026-04-15T16:43:37.378Z"
+  "total_adoptions": 16,
+  "last_adoption": "2026-04-23T17:02:48.252Z"
 }
