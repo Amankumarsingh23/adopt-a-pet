@@ -1,6 +1,17 @@
 {
   "pets": [
     {
+      "id": "pet_1777760425819",
+      "type": "axolotl",
+      "emoji": "🦎",
+      "name": "Sparky Waffles",
+      "personality": "hoards shiny objects ✨",
+      "adopted_by": "Amankumarsingh23",
+      "issue_number": "11",
+      "timestamp": "2026-05-02T22:20:25.819Z",
+      "svg": "images/pet_1777760425819.svg"
+    },
+    {
       "id": "pet_1777720606396",
       "type": "dog",
       "emoji": "🐶",
@@ -188,6 +199,6 @@
       "svg": "images/pet_1775028455765.svg"
     }
   ],
-  "total_adoptions": 17,
-  "last_adoption": "2026-05-02T11:16:46.396Z"
+  "total_adoptions": 18,
+  "last_adoption": "2026-05-02T22:20:25.819Z"
 }
