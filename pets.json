@@ -1,6 +1,17 @@
 {
   "pets": [
     {
+      "id": "pet_1777720606396",
+      "type": "dog",
+      "emoji": "🐶",
+      "name": "Cozy Zigzag",
+      "personality": "only eats gourmet food 🍽️",
+      "adopted_by": "logiclord67-code",
+      "issue_number": "10",
+      "timestamp": "2026-05-02T11:16:46.396Z",
+      "svg": "images/pet_1777720606396.svg"
+    },
+    {
       "id": "pet_1776963768252",
       "type": "dragon",
       "emoji": "🐲",
@@ -177,6 +188,6 @@
       "svg": "images/pet_1775028455765.svg"
     }
   ],
-  "total_adoptions": 16,
-  "last_adoption": "2026-04-23T17:02:48.252Z"
+  "total_adoptions": 17,
+  "last_adoption": "2026-05-02T11:16:46.396Z"
 }
