@@ -1,6 +1,17 @@
 {
   "pets": [
     {
+      "id": "pet_1778089858105",
+      "type": "bunny",
+      "emoji": "🐰",
+      "name": "Nimble Cobalt",
+      "personality": "has strong opinions about snacks 🍪",
+      "adopted_by": "Amankumarsingh23",
+      "issue_number": "14",
+      "timestamp": "2026-05-06T17:50:58.105Z",
+      "svg": "images/pet_1778089858105.svg"
+    },
+    {
       "id": "pet_1778002402154",
       "type": "axolotl",
       "emoji": "🦎",
@@ -221,6 +232,6 @@
       "svg": "images/pet_1775028455765.svg"
     }
   ],
-  "total_adoptions": 20,
-  "last_adoption": "2026-05-05T17:33:22.154Z"
+  "total_adoptions": 21,
+  "last_adoption": "2026-05-06T17:50:58.105Z"
 }
