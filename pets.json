@@ -1,6 +1,17 @@
 {
   "pets": [
     {
+      "id": "pet_1778258965221",
+      "type": "hamster",
+      "emoji": "🐹",
+      "name": "Wiggly Cobalt",
+      "personality": "professional napper 😴",
+      "adopted_by": "Amankumarsingh23",
+      "issue_number": "15",
+      "timestamp": "2026-05-08T16:49:25.221Z",
+      "svg": "images/pet_1778258965221.svg"
+    },
+    {
       "id": "pet_1778089858105",
       "type": "bunny",
       "emoji": "🐰",
@@ -232,6 +243,6 @@
       "svg": "images/pet_1775028455765.svg"
     }
   ],
-  "total_adoptions": 21,
-  "last_adoption": "2026-05-06T17:50:58.105Z"
+  "total_adoptions": 22,
+  "last_adoption": "2026-05-08T16:49:25.221Z"
 }
