@@ -1,6 +1,17 @@
 {
   "pets": [
     {
+      "id": "pet_1779119648298",
+      "type": "penguin",
+      "emoji": "🐧",
+      "name": "Fuzzy Marshmallow",
+      "personality": "hoards shiny objects ✨",
+      "adopted_by": "Amankumarsingh23",
+      "issue_number": "19",
+      "timestamp": "2026-05-18T15:54:08.298Z",
+      "svg": "images/pet_1779119648298.svg"
+    },
+    {
       "id": "pet_1778693802735",
       "type": "hamster",
       "emoji": "🐹",
@@ -276,6 +287,6 @@
       "svg": "images/pet_1775028455765.svg"
     }
   ],
-  "total_adoptions": 25,
-  "last_adoption": "2026-05-13T17:36:42.735Z"
+  "total_adoptions": 26,
+  "last_adoption": "2026-05-18T15:54:08.298Z"
 }
