@@ -1,6 +1,17 @@
 {
   "pets": [
     {
+      "id": "pet_1779299259282",
+      "type": "bunny",
+      "emoji": "🐰",
+      "name": "Wiggly Paws",
+      "personality": "professional window watcher 🪟",
+      "adopted_by": "Amankumarsingh23",
+      "issue_number": "20",
+      "timestamp": "2026-05-20T17:47:39.282Z",
+      "svg": "images/pet_1779299259282.svg"
+    },
+    {
       "id": "pet_1779119648298",
       "type": "penguin",
       "emoji": "🐧",
@@ -287,6 +298,6 @@
       "svg": "images/pet_1775028455765.svg"
     }
   ],
-  "total_adoptions": 26,
-  "last_adoption": "2026-05-18T15:54:08.298Z"
+  "total_adoptions": 27,
+  "last_adoption": "2026-05-20T17:47:39.282Z"
 }
