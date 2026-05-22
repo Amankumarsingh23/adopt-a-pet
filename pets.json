@@ -1,6 +1,17 @@
 {
   "pets": [
     {
+      "id": "pet_1779474268263",
+      "type": "axolotl",
+      "emoji": "🦎",
+      "name": "Zesty Waffles",
+      "personality": "judges you silently 👀",
+      "adopted_by": "Amankumarsingh23",
+      "issue_number": "22",
+      "timestamp": "2026-05-22T18:24:28.263Z",
+      "svg": "images/pet_1779474268263.svg"
+    },
+    {
       "id": "pet_1779384427782",
       "type": "dog",
       "emoji": "🐶",
@@ -309,6 +320,6 @@
       "svg": "images/pet_1775028455765.svg"
     }
   ],
-  "total_adoptions": 28,
-  "last_adoption": "2026-05-21T17:27:07.782Z"
+  "total_adoptions": 29,
+  "last_adoption": "2026-05-22T18:24:28.263Z"
 }
