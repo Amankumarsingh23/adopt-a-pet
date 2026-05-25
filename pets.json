@@ -1,6 +1,17 @@
 {
   "pets": [
     {
+      "id": "pet_1779729867187",
+      "type": "frog",
+      "emoji": "🐸",
+      "name": "Bouncy Zigzag",
+      "personality": "judges you silently 👀",
+      "adopted_by": "Amankumarsingh23",
+      "issue_number": "23",
+      "timestamp": "2026-05-25T17:24:27.187Z",
+      "svg": "images/pet_1779729867187.svg"
+    },
+    {
       "id": "pet_1779474268263",
       "type": "axolotl",
       "emoji": "🦎",
@@ -320,6 +331,6 @@
       "svg": "images/pet_1775028455765.svg"
     }
   ],
-  "total_adoptions": 29,
-  "last_adoption": "2026-05-22T18:24:28.263Z"
+  "total_adoptions": 30,
+  "last_adoption": "2026-05-25T17:24:27.187Z"
 }
