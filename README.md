@@ -2,34 +2,36 @@
 
 > A living GitHub repository where anyone can adopt a pixel-art pet by opening an issue!
 
-> 💌 **🐸 Bouncy Zigzag** was last adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23) on Mon, 25 May 2026 17:24:27 GMT.
+> 💌 **🐹 Cheerful Jellybean** was last adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23) on Wed, 27 May 2026 18:20:31 GMT.
 
 ---
 
 ## 🏡 The Shelter
 
 
-| <img src="images/pet_1779729867187.svg" width="112" height="112" alt="frog"> | <img src="images/pet_1779474268263.svg" width="112" height="112" alt="axolotl"> | <img src="images/pet_1779384427782.svg" width="112" height="112" alt="dog"> | 
+| <img src="images/pet_1779906031725.svg" width="112" height="112" alt="hamster"> | <img src="images/pet_1779729867187.svg" width="112" height="112" alt="frog"> | <img src="images/pet_1779474268263.svg" width="112" height="112" alt="axolotl"> | 
 |:---:|:---:|:---:|
-| **🐸 Bouncy Zigzag**<br/>*judges you silently 👀*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#23 · 25/5/2026</sub> | **🦎 Zesty Waffles**<br/>*judges you silently 👀*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#22 · 22/5/2026</sub> | **🐶 Nimble Biscuit**<br/>*very dramatic about everything 🎭*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#21 · 21/5/2026</sub> | 
-| <img src="images/pet_1779299259282.svg" width="112" height="112" alt="bunny"> | <img src="images/pet_1779119648298.svg" width="112" height="112" alt="penguin"> | <img src="images/pet_1778693802735.svg" width="112" height="112" alt="hamster"> | 
-| **🐰 Wiggly Paws**<br/>*professional window watcher 🪟*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#20 · 20/5/2026</sub> | **🐧 Fuzzy Marshmallow**<br/>*hoards shiny objects ✨*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#19 · 18/5/2026</sub> | **🐹 Zesty Pretzel**<br/>*chaos gremlin energy 😈*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#18 · 13/5/2026</sub> | 
-| <img src="images/pet_1778595695781.svg" width="112" height="112" alt="bunny"> | <img src="images/pet_1778430015176.svg" width="112" height="112" alt="cat"> | <img src="images/pet_1778258965221.svg" width="112" height="112" alt="hamster"> | 
-| **🐰 Nimble Zigzag**<br/>*professional window watcher 🪟*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#17 · 12/5/2026</sub> | **🐱 Nimble Jellybean**<br/>*thinks it's the main character 🌟*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#16 · 10/5/2026</sub> | **🐹 Wiggly Cobalt**<br/>*professional napper 😴*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#15 · 8/5/2026</sub> | 
-| <img src="images/pet_1778089858105.svg" width="112" height="112" alt="bunny"> | <img src="images/pet_1778002402154.svg" width="112" height="112" alt="axolotl"> | <img src="images/pet_1777914639826.svg" width="112" height="112" alt="axolotl"> | 
-| **🐰 Nimble Cobalt**<br/>*has strong opinions about snacks 🍪*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#14 · 6/5/2026</sub> | **🦎 Tiny Noodle**<br/>*thinks it's the main character 🌟*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#13 · 5/5/2026</sub> | **🦎 Dreamy Zigzag**<br/>*thinks it's the main character 🌟*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#12 · 4/5/2026</sub> | 
-| <img src="images/pet_1777760425819.svg" width="112" height="112" alt="axolotl"> | <img src="images/pet_1777720606396.svg" width="112" height="112" alt="dog"> | <img src="images/pet_1776963768252.svg" width="112" height="112" alt="dragon"> | 
-| **🦎 Sparky Waffles**<br/>*hoards shiny objects ✨*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#11 · 2/5/2026</sub> | **🐶 Cozy Zigzag**<br/>*only eats gourmet food 🍽️*<br/>Adopted by [@logiclord67-code](https://github.com/logiclord67-code)<br/><sub>#10 · 2/5/2026</sub> | **🐲 Lively Whiskers**<br/>*hoards shiny objects ✨*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#9 · 23/4/2026</sub> | 
-| <img src="images/pet_1776271417378.svg" width="112" height="112" alt="cat"> | <img src="images/pet_1776236764843.svg" width="112" height="112" alt="frog"> | <img src="images/pet_1775500856465.svg" width="112" height="112" alt="bunny"> | 
-| **🐱 Brave Cheddar**<br/>*collects friendship bracelets 📿*<br/>Adopted by [@harryson9935](https://github.com/harryson9935)<br/><sub>#8 · 15/4/2026</sub> | **🐸 Cozy Pretzel**<br/>*secretly runs a podcast 🎙️*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#7 · 15/4/2026</sub> | **🐰 Lively Dumpling**<br/>*collects friendship bracelets 📿*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#6 · 6/4/2026</sub> | 
-| <img src="images/pet_1775122126472.svg" width="112" height="112" alt="axolotl"> | <img src="images/pet_1775034319243.svg" width="112" height="112" alt="hamster"> | <img src="images/pet_1775030199558.svg" width="112" height="112" alt="dog"> | 
-| **🦎 Gentle Biscuit**<br/>*befriends all other pets 🤝*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#5 · 2/4/2026</sub> | **🐹 Grumpy Mochi**<br/>*loves midnight zoomies 🌙*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#4 · 1/4/2026</sub> | **🐶 Sleepy Churro**<br/>*hoards shiny objects ✨*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#3 · 1/4/2026</sub> | 
-| <img src="images/pet_1775030124174.svg" width="112" height="112" alt="frog"> | <img src="images/pet_1775029411684.svg" width="112" height="112" alt="penguin"> | <img src="images/pet_1775028460250.svg" width="112" height="112" alt="cat"> | 
-| **🐸 Cozy Whiskers**<br/>*too wholesome for this world 💖*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#2 · 1/4/2026</sub> | **🐧 Lively Waffles**<br/>*only eats gourmet food 🍽️*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#1 · 1/4/2026</sub> | **🐱 Quirky Pudding**<br/>*befriends all other pets 🤝*<br/>Adopted by [@user7](https://github.com/user7)<br/><sub>#7 · 1/4/2026</sub> | 
-| <img src="images/pet_1775028460166.svg" width="112" height="112" alt="dragon"> | <img src="images/pet_1775028460081.svg" width="112" height="112" alt="axolotl"> | <img src="images/pet_1775028459994.svg" width="112" height="112" alt="dragon"> | 
-| **🐲 Gentle Pretzel**<br/>*loves midnight zoomies 🌙*<br/>Adopted by [@user6](https://github.com/user6)<br/><sub>#6 · 1/4/2026</sub> | **🦎 Grumpy Biscuit**<br/>*hoards shiny objects ✨*<br/>Adopted by [@user5](https://github.com/user5)<br/><sub>#5 · 1/4/2026</sub> | **🐲 Brave Cobalt**<br/>*professional window watcher 🪟*<br/>Adopted by [@user4](https://github.com/user4)<br/><sub>#4 · 1/4/2026</sub> | 
-| <img src="images/pet_1775028459906.svg" width="112" height="112" alt="axolotl"> | <img src="images/pet_1775028459846.svg" width="112" height="112" alt="hamster"> | <img src="images/pet_1775028455765.svg" width="112" height="112" alt="dog"> | 
-| **🦎 Fluffy Pumpkin**<br/>*scared of its own shadow 😱*<br/>Adopted by [@user3](https://github.com/user3)<br/><sub>#3 · 1/4/2026</sub> | **🐹 Mellow Churro**<br/>*very dramatic about everything 🎭*<br/>Adopted by [@user2](https://github.com/user2)<br/><sub>#2 · 1/4/2026</sub> | **🐶 Cheerful Waffles**<br/>*collects friendship bracelets 📿*<br/>Adopted by [@amankumarsingh23](https://github.com/amankumarsingh23)<br/><sub>#1 · 1/4/2026</sub> | 
+| **🐹 Cheerful Jellybean**<br/>*too wholesome for this world 💖*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#24 · 27/5/2026</sub> | **🐸 Bouncy Zigzag**<br/>*judges you silently 👀*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#23 · 25/5/2026</sub> | **🦎 Zesty Waffles**<br/>*judges you silently 👀*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#22 · 22/5/2026</sub> | 
+| <img src="images/pet_1779384427782.svg" width="112" height="112" alt="dog"> | <img src="images/pet_1779299259282.svg" width="112" height="112" alt="bunny"> | <img src="images/pet_1779119648298.svg" width="112" height="112" alt="penguin"> | 
+| **🐶 Nimble Biscuit**<br/>*very dramatic about everything 🎭*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#21 · 21/5/2026</sub> | **🐰 Wiggly Paws**<br/>*professional window watcher 🪟*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#20 · 20/5/2026</sub> | **🐧 Fuzzy Marshmallow**<br/>*hoards shiny objects ✨*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#19 · 18/5/2026</sub> | 
+| <img src="images/pet_1778693802735.svg" width="112" height="112" alt="hamster"> | <img src="images/pet_1778595695781.svg" width="112" height="112" alt="bunny"> | <img src="images/pet_1778430015176.svg" width="112" height="112" alt="cat"> | 
+| **🐹 Zesty Pretzel**<br/>*chaos gremlin energy 😈*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#18 · 13/5/2026</sub> | **🐰 Nimble Zigzag**<br/>*professional window watcher 🪟*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#17 · 12/5/2026</sub> | **🐱 Nimble Jellybean**<br/>*thinks it's the main character 🌟*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#16 · 10/5/2026</sub> | 
+| <img src="images/pet_1778258965221.svg" width="112" height="112" alt="hamster"> | <img src="images/pet_1778089858105.svg" width="112" height="112" alt="bunny"> | <img src="images/pet_1778002402154.svg" width="112" height="112" alt="axolotl"> | 
+| **🐹 Wiggly Cobalt**<br/>*professional napper 😴*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#15 · 8/5/2026</sub> | **🐰 Nimble Cobalt**<br/>*has strong opinions about snacks 🍪*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#14 · 6/5/2026</sub> | **🦎 Tiny Noodle**<br/>*thinks it's the main character 🌟*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#13 · 5/5/2026</sub> | 
+| <img src="images/pet_1777914639826.svg" width="112" height="112" alt="axolotl"> | <img src="images/pet_1777760425819.svg" width="112" height="112" alt="axolotl"> | <img src="images/pet_1777720606396.svg" width="112" height="112" alt="dog"> | 
+| **🦎 Dreamy Zigzag**<br/>*thinks it's the main character 🌟*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#12 · 4/5/2026</sub> | **🦎 Sparky Waffles**<br/>*hoards shiny objects ✨*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#11 · 2/5/2026</sub> | **🐶 Cozy Zigzag**<br/>*only eats gourmet food 🍽️*<br/>Adopted by [@logiclord67-code](https://github.com/logiclord67-code)<br/><sub>#10 · 2/5/2026</sub> | 
+| <img src="images/pet_1776963768252.svg" width="112" height="112" alt="dragon"> | <img src="images/pet_1776271417378.svg" width="112" height="112" alt="cat"> | <img src="images/pet_1776236764843.svg" width="112" height="112" alt="frog"> | 
+| **🐲 Lively Whiskers**<br/>*hoards shiny objects ✨*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#9 · 23/4/2026</sub> | **🐱 Brave Cheddar**<br/>*collects friendship bracelets 📿*<br/>Adopted by [@harryson9935](https://github.com/harryson9935)<br/><sub>#8 · 15/4/2026</sub> | **🐸 Cozy Pretzel**<br/>*secretly runs a podcast 🎙️*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#7 · 15/4/2026</sub> | 
+| <img src="images/pet_1775500856465.svg" width="112" height="112" alt="bunny"> | <img src="images/pet_1775122126472.svg" width="112" height="112" alt="axolotl"> | <img src="images/pet_1775034319243.svg" width="112" height="112" alt="hamster"> | 
+| **🐰 Lively Dumpling**<br/>*collects friendship bracelets 📿*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#6 · 6/4/2026</sub> | **🦎 Gentle Biscuit**<br/>*befriends all other pets 🤝*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#5 · 2/4/2026</sub> | **🐹 Grumpy Mochi**<br/>*loves midnight zoomies 🌙*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#4 · 1/4/2026</sub> | 
+| <img src="images/pet_1775030199558.svg" width="112" height="112" alt="dog"> | <img src="images/pet_1775030124174.svg" width="112" height="112" alt="frog"> | <img src="images/pet_1775029411684.svg" width="112" height="112" alt="penguin"> | 
+| **🐶 Sleepy Churro**<br/>*hoards shiny objects ✨*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#3 · 1/4/2026</sub> | **🐸 Cozy Whiskers**<br/>*too wholesome for this world 💖*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#2 · 1/4/2026</sub> | **🐧 Lively Waffles**<br/>*only eats gourmet food 🍽️*<br/>Adopted by [@Amankumarsingh23](https://github.com/Amankumarsingh23)<br/><sub>#1 · 1/4/2026</sub> | 
+| <img src="images/pet_1775028460250.svg" width="112" height="112" alt="cat"> | <img src="images/pet_1775028460166.svg" width="112" height="112" alt="dragon"> | <img src="images/pet_1775028460081.svg" width="112" height="112" alt="axolotl"> | 
+| **🐱 Quirky Pudding**<br/>*befriends all other pets 🤝*<br/>Adopted by [@user7](https://github.com/user7)<br/><sub>#7 · 1/4/2026</sub> | **🐲 Gentle Pretzel**<br/>*loves midnight zoomies 🌙*<br/>Adopted by [@user6](https://github.com/user6)<br/><sub>#6 · 1/4/2026</sub> | **🦎 Grumpy Biscuit**<br/>*hoards shiny objects ✨*<br/>Adopted by [@user5](https://github.com/user5)<br/><sub>#5 · 1/4/2026</sub> | 
+| <img src="images/pet_1775028459994.svg" width="112" height="112" alt="dragon"> | <img src="images/pet_1775028459906.svg" width="112" height="112" alt="axolotl"> | <img src="images/pet_1775028459846.svg" width="112" height="112" alt="hamster"> | 
+| **🐲 Brave Cobalt**<br/>*professional window watcher 🪟*<br/>Adopted by [@user4](https://github.com/user4)<br/><sub>#4 · 1/4/2026</sub> | **🦎 Fluffy Pumpkin**<br/>*scared of its own shadow 😱*<br/>Adopted by [@user3](https://github.com/user3)<br/><sub>#3 · 1/4/2026</sub> | **🐹 Mellow Churro**<br/>*very dramatic about everything 🎭*<br/>Adopted by [@user2](https://github.com/user2)<br/><sub>#2 · 1/4/2026</sub> | 
+| <img src="images/pet_1775028455765.svg" width="112" height="112" alt="dog"> |  |  | 
+| **🐶 Cheerful Waffles**<br/>*collects friendship bracelets 📿*<br/>Adopted by [@amankumarsingh23](https://github.com/amankumarsingh23)<br/><sub>#1 · 1/4/2026</sub> |  |  | 
 
 
 ---
@@ -39,21 +41,21 @@
 
 | 📊 Stat | Value |
 |---|---|
-| 🐾 Total Adoptions | **30** |
+| 🐾 Total Adoptions | **31** |
 | 👥 Unique Adopters | **10** |
 | 🏆 Most Popular Pet | **axolotl** (7 adopted) |
-| 🕐 Last Adoption | **Mon, 25 May 2026 17:24:27 GMT** |
+| 🕐 Last Adoption | **Wed, 27 May 2026 18:20:31 GMT** |
 
 
 
 
 ### 🏅 Recent Adopters
 
-1. [@Amankumarsingh23](https://github.com/Amankumarsingh23) adopted **🐸 Bouncy Zigzag** the frog
-2. [@Amankumarsingh23](https://github.com/Amankumarsingh23) adopted **🦎 Zesty Waffles** the axolotl
-3. [@Amankumarsingh23](https://github.com/Amankumarsingh23) adopted **🐶 Nimble Biscuit** the dog
-4. [@Amankumarsingh23](https://github.com/Amankumarsingh23) adopted **🐰 Wiggly Paws** the bunny
-5. [@Amankumarsingh23](https://github.com/Amankumarsingh23) adopted **🐧 Fuzzy Marshmallow** the penguin
+1. [@Amankumarsingh23](https://github.com/Amankumarsingh23) adopted **🐹 Cheerful Jellybean** the hamster
+2. [@Amankumarsingh23](https://github.com/Amankumarsingh23) adopted **🐸 Bouncy Zigzag** the frog
+3. [@Amankumarsingh23](https://github.com/Amankumarsingh23) adopted **🦎 Zesty Waffles** the axolotl
+4. [@Amankumarsingh23](https://github.com/Amankumarsingh23) adopted **🐶 Nimble Biscuit** the dog
+5. [@Amankumarsingh23](https://github.com/Amankumarsingh23) adopted **🐰 Wiggly Paws** the bunny
 
 
 ---
