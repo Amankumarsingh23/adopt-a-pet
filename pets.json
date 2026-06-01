@@ -1,6 +1,17 @@
 {
   "pets": [
     {
+      "id": "pet_1780336148578",
+      "type": "axolotl",
+      "emoji": "🦎",
+      "name": "Sparky Bubbles",
+      "personality": "thinks it's the main character 🌟",
+      "adopted_by": "Amankumarsingh23",
+      "issue_number": "25",
+      "timestamp": "2026-06-01T17:49:08.578Z",
+      "svg": "images/pet_1780336148578.svg"
+    },
+    {
       "id": "pet_1779906031725",
       "type": "hamster",
       "emoji": "🐹",
@@ -342,6 +353,6 @@
       "svg": "images/pet_1775028455765.svg"
     }
   ],
-  "total_adoptions": 31,
-  "last_adoption": "2026-05-27T18:20:31.725Z"
+  "total_adoptions": 32,
+  "last_adoption": "2026-06-01T17:49:08.578Z"
 }
