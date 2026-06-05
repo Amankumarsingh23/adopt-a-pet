@@ -1,6 +1,17 @@
 {
   "pets": [
     {
+      "id": "pet_1780683483339",
+      "type": "cat",
+      "emoji": "🐱",
+      "name": "Snuggly Mochi",
+      "personality": "emotionally attached to a specific blanket 🛋️",
+      "adopted_by": "Amankumarsingh23",
+      "issue_number": "27",
+      "timestamp": "2026-06-05T18:18:03.339Z",
+      "svg": "images/pet_1780683483339.svg"
+    },
+    {
       "id": "pet_1780596166260",
       "type": "frog",
       "emoji": "🐸",
@@ -364,6 +375,6 @@
       "svg": "images/pet_1775028455765.svg"
     }
   ],
-  "total_adoptions": 33,
-  "last_adoption": "2026-06-04T18:02:46.260Z"
+  "total_adoptions": 34,
+  "last_adoption": "2026-06-05T18:18:03.339Z"
 }
