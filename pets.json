@@ -1,6 +1,17 @@
 {
   "pets": [
     {
+      "id": "pet_1780854674384",
+      "type": "hamster",
+      "emoji": "🐹",
+      "name": "Fluffy Cobalt",
+      "personality": "professional napper 😴",
+      "adopted_by": "Amankumarsingh23",
+      "issue_number": "29",
+      "timestamp": "2026-06-07T17:51:14.384Z",
+      "svg": "images/pet_1780854674384.svg"
+    },
+    {
       "id": "pet_1780767925883",
       "type": "hamster",
       "emoji": "🐹",
@@ -386,6 +397,6 @@
       "svg": "images/pet_1775028455765.svg"
     }
   ],
-  "total_adoptions": 35,
-  "last_adoption": "2026-06-06T17:45:25.883Z"
+  "total_adoptions": 36,
+  "last_adoption": "2026-06-07T17:51:14.384Z"
 }
