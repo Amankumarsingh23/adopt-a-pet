@@ -1,6 +1,17 @@
 {
   "pets": [
     {
+      "id": "pet_1781887645500",
+      "type": "frog",
+      "emoji": "🐸",
+      "name": "Grumpy Boba",
+      "personality": "too wholesome for this world 💖",
+      "adopted_by": "Amankumarsingh23",
+      "issue_number": "36",
+      "timestamp": "2026-06-19T16:47:25.500Z",
+      "svg": "images/pet_1781887645500.svg"
+    },
+    {
       "id": "pet_1781633640070",
       "type": "axolotl",
       "emoji": "🦎",
@@ -463,6 +474,6 @@
       "svg": "images/pet_1775028455765.svg"
     }
   ],
-  "total_adoptions": 42,
-  "last_adoption": "2026-06-16T18:14:00.070Z"
+  "total_adoptions": 43,
+  "last_adoption": "2026-06-19T16:47:25.500Z"
 }
